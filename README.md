@@ -31,10 +31,10 @@ PORT     STATE    SERVICE         VERSION
 ```
 
 **Task 1: Which are the first four open ports?**
-* **Ответ:** `22,6789,8080,8443` Ответ берем с вышеуказанного отчёта
+* **Ответ:** `22,6789,8080,8443`. Ответ берем с вышеуказанного отчёта
 
 **Task 2: What is the title of the software that is running running on port 8443?**
-* **Ответ:** `UniFi Network` Наименование указано в названии вкладки
+* **Ответ:** `UniFi Network`. Наименование указано в названии вкладки
 
 **Task 3: What is the version of the software that is running?**
 * Переходим в браузере по адресу `https://[ip Unified]:8443/`. На странице авторизации UniFi Network Controller фиксируем точную версию.
